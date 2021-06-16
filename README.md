@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🤝 Looking to collaborate on `JavaScript` & `Python` projects
 - 🏢 Actively looking for junior software engineer roles
 
-📫 How to reach me: yiyangww@gmail.ca
+📫 How to reach me: yiyangww@gmail.ca  yiyang3@ualberta.ca
 
 
 ### Languages and Tools:
