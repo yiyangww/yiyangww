@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### I am:
-- 🎓 Comp Sci student at the 🇨🇦 University of Alberta, graduated in June 2020.
+- 🎓 
 - 🙇 Working on `React`, `node.js`, `python`
 - 🤝 Looking to collaborate on `JavaScript` & `Python` projects
-- 🏢 Actively looking for junior software engineer roles
+- 🏢 
 
-📫 How to reach me: yiyangww@gmail.ca  </br>ydev.wang@mail.utoronto.ca
+📫 How to reach me: 
 
 
 ### Languages and Tools:
