@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🤝 Looking to collaborate on `JavaScript` & `Python` projects
 - 🏢 
 
-📫 How to reach me: 
+📫 How to reach me:<br /> 
 yiyangww@gmail.com  <br /> 
 https://yiyangwang.netlify.app/
 
