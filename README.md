@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 📫 How to reach me:<br /> 
 yiyangww@gmail.com  <br /> 
-https://yiyangwang.netlify.app/
 
 ### Languages and Tools:
 
