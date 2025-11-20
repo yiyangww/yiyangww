@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yw4/yw4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,16 +11,26 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🧑‍💻 Previously SDE Intern @ ThirstyBrain Inc. & Web Developer @ PhD League
+
 -->
-### I am:
-- 🎓 
-- 🙇 Working on `React`, `node.js`, `python`
-- 🤝 Looking to collaborate on `JavaScript` & `Python` projects
-- 🏢 
+Hi there 👋
+I am:
 
-📫 How to reach me:<br /> 
-yiyangww@gmail.com  <br /> 
+🎓 M.Eng student in Electrical & Computer Engineering @ University of Toronto
 
+🙇 Working with React, Node.js, Java, Python
+
+🤝 Open to collaboration on fun projects
+
+🏢 Interested in full-stack engineering, cloud architecture, and scalable systems
+
+📫 Reach me at: yiyangww@gmail.com
+
+About Me
+
+Hi! I'm Yiyang Wang (王奕扬, “wong yee-yahng”).
+I’m passionate about building reliable, scalable, and impactful software, especially in web platforms and cloud-native systems. I enjoy applying design patterns, clean architecture, and modern DevOps practices to create maintainable real-world applications.
 ### Languages and Tools:
 
 <p>  
@@ -37,7 +45,3 @@ yiyangww@gmail.com  <br />
 
 
 
-
-
-
-![Yiyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yiyangww&count_private=true&show_icons=true&theme=vue)
