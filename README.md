@@ -29,7 +29,6 @@ I am:
 
 About Me
 
-Hi! I'm Yiyang Wang (王奕扬, “wong yee-yahng”).
 I’m passionate about building reliable, scalable, and impactful software, especially in web platforms and cloud-native systems. I enjoy applying design patterns, clean architecture, and modern DevOps practices to create maintainable real-world applications.
 ### Languages and Tools:
 
